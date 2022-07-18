@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kripanghosh
-- 👀 I’m interested in software engineering challenges
+- 👀 I’m interested in application architecure and software engineering challenges
 - 🌱 I’m currently learning high scale streaming
 - 💞️ I’m looking to collaborate on step functions
 - 📫 How to reach me kripanghosh@gmail.com
