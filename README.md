@@ -2,6 +2,7 @@
 - 👀 I’m interested in application architecure and software engineering challenges
 - 🌱 I’m currently learning high scale streaming
 - 💞️ I’m looking to collaborate on step functions
+- Avid user of AI tools: Co-pilot, chatGPT, Gemini- crossing to the other side
 - 📫 How to reach me kripanghosh@gmail.com
 
 <!---
